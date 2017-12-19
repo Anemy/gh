@@ -1,0 +1,95 @@
+.top-bar {
+  /* box-shadow: 2px 0px 6px 0px rgba(0,0,0,.15); */
+  background: #fafafa;
+  border-bottom: 1px solid #ebebeb;
+  overflow: visible;
+  position: relative;
+  text-align: center;
+}
+
+.top-bar-items {
+  display: inline-flex;
+  height: 60px;
+}
+
+.top-bar-profile-pic {
+  border: 1px solid black;
+  border-radius: 50%;
+  display: inline-block;
+  height: 40px;
+  margin-top: 10px;
+  width: auto;
+}
+
+.top-bar-title-name {
+  color: #333;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  margin-left: 8px;
+  line-height: 60px;
+  vertical-align: top;
+}
+
+.top-bar-nav-area {
+  display: inline-block;
+  margin-left: 200px;
+}
+
+.top-bar-nav-link {
+  color: #333;
+  display: inline-block;
+  line-height: 60px;
+  padding: 0px 14px;
+  /* text-decoration: underline; */
+  text-decoration: none;
+  vertical-align: text-bottom;
+  width: fit-content;
+}
+.top-bar-nav-link:hover {
+  /* color: #2ecc71; */
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.top-bar-nav-link-active {
+  background-color: white;
+  box-shadow: 0px 0px 6px 0px rgba(0,0,0,.2);
+  color: black;
+  /* font-weight: bold; */
+}
+
+/* .top-bar-welsh-flag {
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 60px;
+}
+
+.top-bar-usa-flag {
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 60px;
+} */
+
+.top-bar-welsh-flag {
+  height: 60px;
+  position: absolute;
+  right: 114px;
+  top: 0;
+  /* margin-left: 20px;
+  margin-top: 10px; */
+  /* width: 60px; */
+}
+
+.top-bar-usa-flag {
+  height: 60px;
+  position: absolute;
+  right: 0px;
+  top: 0;
+  /* margin-left: 20px;
+  margin-top: 10px; */
+  /* width: 60px; */
+}

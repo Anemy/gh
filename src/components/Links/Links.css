@@ -1,0 +1,26 @@
+.links {
+  color: #333;
+}
+
+.links-link-item {
+  border-left: 2px solid #bdced4; /* #658d95; */
+  margin-top: 30px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.links-link-title {
+  color: #333;
+  font-size: 18px;
+}
+
+.links-link {
+  font-size: 14px;
+}
+
+.links-link-desc {
+  color: #555;
+  font-size: 16px;
+  margin-top: 4px;
+}
