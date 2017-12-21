@@ -1,14 +1,6 @@
 
 export default [{
-  author: 'Author',
-  date: 'December 19th, 2017',
-  text: 'Text post'
-}, {
-  author: 'Author Name',
-  date: 'December 19th, 2017',
-  text: 'Post text.'
-}, {
-  author: 'Author Name',
-  date: 'December 19th, 2017',
-  text: 'Post text.'
+  author: 'Amy',
+  date: 'December 21st, 2017',
+  text: 'Hello all, Gareth is now starting hospice care at home. During this season of family time we invite you to share your best wishes, memories, and photos. <br>Love from all of us.'
 }];

@@ -4,7 +4,7 @@ import './Post.css';
 
 const Post = (props) => (
   <div className="post">
-    <div className="post-text">{props.post.text}</div>
+    <div className="post-text" dangerouslySetInnerHTML={{__html: props.post.text}} />
     <div className="post-author">{props.post.author}</div>
     <div className="post-date">{props.post.date}</div>
   </div>

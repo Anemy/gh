@@ -19,7 +19,7 @@ const Home = () => (
         <NavLink className="link-to-share-post" to="/message">
           Add a post or send us a message ✉️
         </NavLink>
-        {/* <Wall /> */}
+        <Wall />
         {/* <NavLink className="link-to-share-post bottom-share-post-link" to="/message">
           Add a post or send us a message ✉️
         </NavLink> */}
