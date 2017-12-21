@@ -17,11 +17,11 @@ const TopBar = () => (
             className="top-bar-profile-pic"
             src="/pic-1.jpg"
           />
-          <a href="/">
+          <NavLink to="/">
             <div className="top-bar-title-name">
                 Gareth Howell
             </div>
-          </a>
+          </NavLink>
         </div>
         <div className="u-8-24 top-bar-nav-area">
           <NavLink

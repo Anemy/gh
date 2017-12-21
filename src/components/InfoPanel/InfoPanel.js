@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 import './InfoPanel.css';
 
@@ -11,7 +12,7 @@ const InfoPanel = () => (
       This website is a source of information and collected thoughts regarding our loved one, Gareth.
     </div>
     <div className="info-panel-text">
-      Share your pictures, thoughts, and stories <a href="/message">here</a>.
+      Share your pictures, thoughts, and stories <NavLink to="/message">here</NavLink>.
     </div>
     <div className="info-panel-text">
       We will be updating this website regularly.

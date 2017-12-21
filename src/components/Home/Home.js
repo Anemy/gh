@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 import './Home.css';
 
@@ -15,13 +16,13 @@ const Home = () => (
       <div className="u-6-24" />
       <div className="u-12-24">
         <InfoPanel />
-        <a className="link-to-share-post" href="/message">
+        <NavLink className="link-to-share-post" to="/message">
           Add a post or send us a message ✉️
-        </a>
+        </NavLink>
         <Wall />
-        <a className="link-to-share-post bottom-share-post-link" href="/message">
+        <NavLink className="link-to-share-post bottom-share-post-link" to="/message">
           Add a post or send us a message ✉️
-        </a>
+        </NavLink>
         <div>
           <ImageGallery />
         </div>
