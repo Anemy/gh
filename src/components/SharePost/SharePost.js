@@ -121,6 +121,11 @@ class SharePost extends Component {
               {error && <div className="share-post-status share-post-error">{errorMessage}</div>}
               {submitting && <div className="share-post-status share-post-submitting">Sending...</div>}
               {success && <div className="share-post-status share-post-success">Success. Your message was sent.</div>}
+              <div
+                className="share-post-extra"
+              >
+                If you would like to send a traditional email or attach a photo please email <span className="text-bold">amyatitus@yahoo.com</span>
+              </div>
             </form>
           </div>
         </div>

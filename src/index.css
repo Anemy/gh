@@ -63,3 +63,7 @@ body {
   -o-transition: all .15s ease;
   transition: all .15s ease;
 }
+
+.text-bold {
+	font-weight: bold;
+}

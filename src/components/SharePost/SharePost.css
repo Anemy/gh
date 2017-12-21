@@ -107,3 +107,8 @@
   background-color: green;
   color: white;
 }
+
+.share-post-extra {
+  clear: both;
+  padding-top: 20px;
+}

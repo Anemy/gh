@@ -18,25 +18,25 @@ const images = [{
   original: 'images/howling-with-laughter.jpg'
 }, {
   original: 'images/belkiss-gallery.jpg'
-}, {
+}/*, {
   original: 'images/pensive.jpg'
-}, {
+}*/, {
   original: 'images/lunch.jpg'
 }, {
   original: 'images/black-and-white.jpg'
 }, {
   original: 'images/lounging.jpg'
 }, {
+  original: 'images/with-baby.jpg'
+}, {
+  original: 'images/with-amy.jpg'
+}, {
+  original: 'images/picnic-with-kids.jpg'
+}, {
+  original: 'images/picnic-tray.jpg'
+}, {
   original: 'images/parents.jpg'
 }];
-
-// class Gallery extends Component {
-//   render() {
-//     return (
-//       <ImageGallery items={images} />
-//     );
-//   }
-// }
 
 const Gallery = () => (
   <div className="gallery-container">
