@@ -18,7 +18,7 @@ const Links = () => (
       <div className="u-12-24">
         <div className="links-link-item">
           <a className="links-link-title" href="https://www.aber.ac.uk/en/graduation/video/2017/5/">
-            Aberystwyth Law School
+            Aberystwyth Law School (Gareth speaks at time 33:40)
           </a>
           <br />
           <a className="links-link" href="https://www.aber.ac.uk/en/graduation/video/2017/5/">

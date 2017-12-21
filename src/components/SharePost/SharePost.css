@@ -1,0 +1,109 @@
+.share-post {
+  padding-top: 40px;
+  width: 100%;
+}
+
+.share-post-text {
+  border: 1px solid #333;
+  font-size: 16px;
+  margin-top: 12px;
+  min-height: 240px;
+  padding: 8px;
+  width: 100%;
+}
+
+.share-post-author {
+  float: left;
+  font-size: 16px;
+  margin-top: 8px;
+  min-width: 140px;
+  padding: 8px;
+}
+
+.share-post-email {
+  float: left;
+  font-size: 16px;
+  margin-left: 4px;
+  margin-top: 8px;
+  min-width: 140px;
+  padding: 8px;
+}
+
+.share-post-submit-button {
+  border: 1px solid #bdced4;
+  background-color: white;
+  color: #333;
+  float: right;
+  font-size: 18px;
+  margin-top: 8px;
+  padding: 6px 16px;
+  -webkit-transition: all .15s ease;
+  -moz-transition: all .15s ease;
+  -ms-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+}
+
+.share-post-submit-button:hover {
+  border-color: #658d95;
+  box-shadow: 0px 0px 6px 0px rgba(0,0,0,.15);
+  cursor: pointer;
+}
+
+.share-post-submit-button:active {
+  border-color: black;
+}
+.share-post-submit-button-is-submitting {
+  border-color: white;
+}
+.share-post-submit-button:after {
+  clear: both;
+}
+
+.link-to-share-post {
+  background-color: white;
+  border: 1px solid #bdced4;
+  color: #333;
+  font-size: 16px;
+  margin-top: 10px;
+  outline: none;
+  padding: 8px;
+  text-decoration: none;
+  -webkit-transition: all .15s ease;
+  -moz-transition: all .15s ease;
+  -ms-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+}
+
+.link-to-share-post:hover {
+  border: 1px solid #658d95;
+  cursor: pointer;
+}
+
+.share-post-status {
+  /* border: 1px solid #658d95; */
+  border-radius: 4px;
+  clear: both;
+  font-size: 16px;
+  margin-top: 44px;
+  padding: 14px;
+  width: 100%;
+  -webkit-transition: all .15s ease;
+  -moz-transition: all .15s ease;
+  -ms-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+}
+.share-post-error {
+  background-color: red;
+  color: white;
+}
+.share-post-submitting {
+  background-color: yellow;
+  color: white;
+}
+.share-post-success {
+  background-color: green;
+  color: white;
+}

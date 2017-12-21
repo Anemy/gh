@@ -2,3 +2,36 @@
   position: relative;
   width: 100%;
 }
+
+.link-to-share-post {
+  background-color: white;
+  border: 1px solid #bdced4;
+  color: #333;
+  font-size: 16px;
+  margin-top: 10px;
+  outline: none;
+  padding: 12px;
+  text-decoration: none;
+  -webkit-transition: all .15s ease;
+  -moz-transition: all .15s ease;
+  -ms-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+}
+
+.link-to-share-post:hover {
+  border: 1px solid #658d95;
+  box-shadow: 0px 0px 6px 0px rgba(0,0,0,.15);
+  cursor: pointer;
+}
+
+.bottom-share-post-link:before {
+  clear: both;
+}
+.bottom-share-post-link {
+  float: right;
+  margin-top: 14px;
+}
+.bottom-share-post-link:after {
+  clear: both;
+}

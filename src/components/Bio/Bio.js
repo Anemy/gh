@@ -16,6 +16,10 @@ const Bio = () => (
       </div> */}
       <div className="u-12-24">
         <img className="a-g-image" src="/a-g.jpg"/>
+        <img className="a-g-image" src="/1.jpg"/>
+        <img className="a-g-image" src="/2.jpg"/>
+        <img className="a-g-image" src="/3.jpg"/>
+        <img className="a-g-image" src="/4.jpg"/>
       </div>
     </div>
   </div>

@@ -1,0 +1,9 @@
+.gallery-container {
+  margin-top: 60px;
+  margin-bottom: 80px;
+  min-height: 600px;
+}
+
+.gallery-container:before {
+  clear: both;
+}

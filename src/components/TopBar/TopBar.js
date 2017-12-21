@@ -17,9 +17,11 @@ const TopBar = () => (
             className="top-bar-profile-pic"
             src="/pic-1.jpg"
           />
-          <div className="top-bar-title-name">
-            Gareth Howell
-          </div>
+          <a href="/">
+            <div className="top-bar-title-name">
+                Gareth Howell
+            </div>
+          </a>
         </div>
         <div className="u-8-24 top-bar-nav-area">
           <NavLink
@@ -28,7 +30,7 @@ const TopBar = () => (
             exact
             to="/"
           >
-            Wall
+            Home
           </NavLink>
           <NavLink
             activeClassName="top-bar-nav-link-active"
@@ -37,12 +39,19 @@ const TopBar = () => (
           >
             Links
           </NavLink>
-          <NavLink
+          {/* <NavLink
             activeClassName="top-bar-nav-link-active"
             className="top-bar-nav-link"
             to="/info"
           >
             Info
+          </NavLink> */}
+          <NavLink
+            activeClassName="top-bar-nav-link-active"
+            className="top-bar-nav-link"
+            to="/message"
+          >
+            Contact
           </NavLink>
         </div>
       </div>
