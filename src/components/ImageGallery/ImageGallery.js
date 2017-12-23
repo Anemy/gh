@@ -35,6 +35,11 @@ const images = [{
 }, {
   original: 'images/picnic-tray.jpg'
 }, {
+  original: 'images/amy-g-france-thiers-1998.jpg',
+  description: 'Amy & Gareth, Thiers, 1998'
+}, {
+  original: 'images/big-dinner-javed-enjum.jpg'
+}, {
   original: 'images/parents.jpg'
 }];
 
