@@ -40,6 +40,9 @@ const images = [{
 }, {
   original: 'images/big-dinner-javed-enjum.jpg'
 }, {
+  original: 'images/gareth-1987.jpg',
+  description: '1987'
+}, {
   original: 'images/parents.jpg'
 }];
 

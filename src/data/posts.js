@@ -11,9 +11,17 @@ export default [{
   familyPost: true,
   text: 'Hello all, Gareth is now starting hospice care at home. During this season of family time we invite you to share your best wishes, memories, and photos. <br>Love from all of us.'
 }, {
+  author: 'Suzanne and Chuck',
+  date: 'December 24th, 2017',
+  text: '&#x1f495;&#128591; feel our sweet prayers to Gareth and everyone surrounding him near and far, seen and unseen. So many wonderful memories of the babes - Llewelyn, Sam, and Alex born within 12 days of each other and all of us "old folks" becoming parents together! Will dig out some pictures especially of our time in the Adirondacks at Claire\'s with Amy and Suzanne climbing High Peaks and Chuck and Gareth holding fort/forth on the couch - napping, reading, talking and solving the world\'s problems! Then marvelous dinners, wine, conversations and young children asleep!'
+}, {
+  author: 'Aide',
+  date: 'December 23rd',
+  text: 'Dear Gareth,<br>My recent memory is the wonderful trip to Wales that we shared last summer. How great it was to see you accept the honor from your university. I am uploading many pictures of this trip and of you waiting for and accepting your honor.'
+}, {
   author: 'Saran',
   date: 'December 23rd, 2017',
-  text: 'Annwyl Gareth, Amy, Llewelyn a Rhys,<br><br>I am so grateful to you for giving me one of the best experiences and opportunities of my life.  My time with you was the best! I loved being a part of your family - you set me up for parenthood! I send you lots of cariad. I will dig out some photos and share them to make you smile. Cariad mawr atoch chi Gareth, a diolch am brofiad anhygoel.<br>xxxx'
+  text: 'Annwyl Gareth, Amy, Llewelyn a Rhys,<br>I am so grateful to you for giving me one of the best experiences and opportunities of my life.  My time with you was the best! I loved being a part of your family - you set me up for parenthood! I send you lots of cariad. I will dig out some photos and share them to make you smile. Cariad mawr atoch chi Gareth, a diolch am brofiad anhygoel.<br>xxxx'
 }, {
   author: 'Jamie',
   date: 'December 23rd, 2017',
@@ -37,7 +45,7 @@ export default [{
 }, {
   author: 'Justine and Dan',
   date: 'December 22nd, 2017',
-  text: 'Dear Gareth, Amy, Rhys, Llewelyn,<br><br>We are so grateful to have had the opportunity to visit and see you all these last two days. We send you all love, and peace for this difficult journey ahead. Your love and welcoming family spirit has been a source of inspiration before and we hope you are a little buoyed by the love we are sending your way.'
+  text: 'Dear Gareth, Amy, Rhys, Llewelyn,<br>We are so grateful to have had the opportunity to visit and see you all these last two days. We send you all love, and peace for this difficult journey ahead. Your love and welcoming family spirit has been a source of inspiration before and we hope you are a little buoyed by the love we are sending your way.'
 }, {
   author: 'Carole and Rick',
   date: 'December 22nd, 2017',
