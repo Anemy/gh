@@ -11,6 +11,14 @@ export default [{
   familyPost: true,
   text: 'Hello all, Gareth is now starting hospice care at home. During this season of family time we invite you to share your best wishes, memories, and photos. <br>Love from all of us.'
 }, {
+  author: 'Sara-Jean', // Richards
+  date: 'December 28th, 2017',
+  text: 'Thanks again for your hospitality in Geneva many years ago to a young Kiwi cousin. I really appreciated the chance to get to know you. Thoughts are with you all at this time.'
+}, {
+  author: 'Tom', // Regnier
+  date: 'December 28th, 2017',
+  text: 'Dear Gareth,<br>Like Rick Waugaman, I was there when you suddenly brought up a forbidden topic at a certain private club. Your words were music to my ears and were the beginning of a change in attitude for that organization. Your charm and persistence and pluck paid huge dividends for the cause of freedom of thought and speech. You are a champion of free and open inquiry, and I will always be grateful and will never forget you!<br>Love,'
+}, {
   author: 'Rick and Elisabeth', // Waugaman
   date: 'December 27th, 2017',
   text: 'It has been such a privilege for Elisabeth and I to get to know Gareth and his family. The way we first met will remain lovingly engraved in our memory. At a time when I was feeling deeply discouraged about a certain anti-intellectual element in a private club I\'d belonged to for many years, this cheerful Welshman showed up, challenging the unspoken taboo against questioning who wrote the works of a certain famous author. He then proceeded to work through the channels to get the Board\'s approval for a newly monthly luncheon group, to discuss the forbidden topic. Soon, his group was drawing as many attendees as the pre-existing orthodox group. <br>Gareth succeeds where others fail because of his unique combination of intelligence, determination, wide knowledge, and over-the-top people skills. Everyone loves him (except those intent on shutting down open discussion of a controversial topic).<br>We were always delighted the many times Gareth came to our home for our informal "movie nights," with lively discussions afterwards. He always contributed in his deeply knowledgeable and good-humored way.<br>Gareth, you will be remembered fondly by all whose lives you have touched. <br>Love,'
