@@ -2,9 +2,7 @@ import React from 'react';
 
 import './Links.css';
 
-import Nav from '../Nav/Nav';
 import TopBar from '../TopBar/TopBar';
-import Wall from '../Wall/Wall';
 
 const Links = () => (
   <div className="links">

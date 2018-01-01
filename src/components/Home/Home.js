@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 import './Home.css';
 
-import Nav from '../Nav/Nav';
+// import Nav from '../Nav/Nav';
 import Wall from '../Wall/Wall';
 import InfoPanel from '../InfoPanel/InfoPanel';
 import ImageGallery from '../ImageGallery/ImageGallery';

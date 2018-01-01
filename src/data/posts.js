@@ -1,15 +1,31 @@
 
-const template = {
-  author: '',
-  date: '',
-  text: ''
-};
+// const template = {
+//   author: '',
+//   date: '',
+//   text: ''
+// };
 
 export default [{
   author: 'Amy',
   date: 'December 21st, 2017',
   familyPost: true,
   text: 'Hello all, Gareth is now starting hospice care at home. During this season of family time we invite you to share your best wishes, memories, and photos. <br>Love from all of us.'
+}, {
+  author: 'Margaret', // West
+  date: 'January 1st, 2018',
+  text: 'Gareth,<br>You\u2019ve been a great friend for many years . . . from the law department at Aber to Gray\u2019s Inn to the Washington D.C. Welsh to the Cosmos Club. <br>Thank you: <br>For agreeing to lead the St. David\u2019s Society of Washington DC and for the accomplishments under your Presidency. <br>For helping to establish an Aberystwyth University alumnae group in Washington. <br>For supporting our Welsh Assembly representatives here and the Welsh Caucus on Capitol Hill\n\nFor becoming North American Secretary of the Welsh Legal History Society and for contributing your scholarly research on Dr. Richard Price, Welsh philosopher and advisor to the Founding Fathers. And for challenging me to do research and write and leading me to the friendship between Welsh-American Supreme Court Justices Hughes and Robert. <br>For supporting Diane Owen\u2019s Welsh language classes so that a growing number of Washingtonians can say something in Welsh. <br>For winning me over to the Oxford side on the question of who wrote Shakespeare.<br>For bringing Amy, Llewelyn and Rhys into our lives.<br>With one enterprise after another you have kept me busy in recent years. I think there are a lot of people who would say the same.<br>We are going to miss you. Many of us will continue what you began but it won\u2019t be the same.'
+}, {
+//   author: 'Alun and Mary', // Michael
+//   date: 'December 31st, 2017',
+//   text: 'Hi Gareth,<br>It was good to talk today and to find you as sharp as ever on the events of the day. While it was also good to hear from you and Amy at Christmas we were very sad to hear that your illness has got worse and that you are having a very bad time. At our time of life it\u2019s inevitable that old friends are hit by illness but it\u2019s still a shock when it happens and you have always been such a lively, larger than life, good friend that it shocked us both. Please accept our love and best wishes as your fight goes on. Life has taken us to places that we wouldn\u2019t have predicted when we first met almost 50 years ago in the smoke-filled Labour Party office of Emrys Jones in Charles Street, Cardiff after I and Rhys David (then of the Western Mail and later of the Financial Times) called to join the Labour Party.  You and I worked to get Wales Radical off the ground and to argue the case for devolution to Wales. I\u2019m convinced that our work helped to keep devolution alive the defeat in 1979 and prepared the ground for 1997.  Shortly afterwards you took me to my first meeting of the Rhiwbina Labour Party, in the Wendy Hut in the old Garden Village. It started with the classic debate over the minutes of the last meeting, with John Wilson and Bill Kohnstamm quibbling over virtually every line.  I remember saying to you after we came out of the meeting \u201cHow on earth can the ward party put up with two people who hate each other so much?\u201d and you told me \u201cThey don\u2019t hate each other \u2013 they\u2019re the best of friends\u201d. True \u2013 but it didn\u2019t make their pedantic bickering any easier to cope with!  When we first met, I would have confidently predicted that I would move on from Cardiff after a couple of years and that you would have stayed in Welsh politics for many years \u2013 wrong on both counts! I\u2019ve watched with amazement and respect at the career you carved out in such a challenging international environment. To have a Welshman \u2013 and one who retained such pride in Wales and his Welshness \u2013 playing such a significant international role and rising to the top of such a key international institution has been inspirational.  The work that you undertook with the ILO established international standards that were important for developing countries and those outside the West but are now of vital importance to Britain and the US and to Europe where so many things we hold dear are increasingly under threat.  Yesterday Andrew Adonis has resigned as Chair of the National Infrastructure Commission because of the Government\u2019s policy over Brexit \u2013 which he describes as a \u201cdangerous populist spasm\u201d. Politics has gone mad in both the UK and in the USA but perhaps the rest of the world will take up the baton of leadership.  One can but hope\u2026\u2026\u2026\u2026\u2026  In any event, the one thing I regret is not spending more time in keeping in touch. Being the first Police & Crime Commissioner for South Wales after 25 years in the House of Commons is such an opportunity to make things happen that it keeps me focussed \u2013 but as Mary reminds me \u201cfew people express regret at not spending more time in the office\u201d. <br>For now, we send our love and our hopes and prayers \u2013 to you and to Amy, Llewellyn and Rhys.<br>Best wishes,'
+// }, {
+  author: 'Synth',
+  date: 'December 30th, 2017',
+  text: 'Annwyl Gareth,<br>Rwy\'n meddwl amdanat. <br>Rwy\'n dy garu di.<br>Cariad mawr,'
+}, {
+  author: 'Patricia, Ted, Angela and Michelle',
+  date: 'December 30th, 2017',
+  text: 'Dear Howell family, your extended family on RockingStone are sending our love. We cherish the memories of our times together. The boys playing in Mom and Dad\'s backyard as we ate pasta and meatballs. We are all blessed to have you woven into our lives.<br>This is a difficult time for you to navigate. We wish you were closer so we can sit, hug, laugh and help you carry on. Know you are loved far and near.'
 }, {
   author: 'Sara-Jean', // Richards
   date: 'December 28th, 2017',
