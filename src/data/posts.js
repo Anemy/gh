@@ -5,15 +5,29 @@
 //   text: ''
 // };
 
+// https://git.io/vbpkH
+
 export default [{
   author: 'Amy',
   date: 'December 21st, 2017',
   familyPost: true,
   text: 'Hello all, Gareth is now starting hospice care at home. During this season of family time we invite you to share your best wishes, memories, and photos. <br>Love from all of us.'
 }, {
+  author: 'Jesse', // Roderick
+  date: 'January 2nd, 2018',
+  text: 'Dear Gareth and family,<br>Please know that my thoughts and prayers are with you at this time. Gareth, thank you for your leadership, guidance, and friendship in the Welsh society of Washington.<br>You have enriched my understanding of the Welsh culture which my father brought to my life.  I am most grateful.<br>With sincere thoughts and thanks to you and your family.<br>Love,<br>'
+}, {
+  author: 'Donna', // Lloyd-Jones
+  date: 'January 2nd, 2018',
+  text: 'Dear Gareth,<br>I always think of you when I think about marrying David, because you were so delighted about it. I know you brought that vitality and enthusiasm to everything you did. I\'ve admired your attitude and resilience about your illness. In short, you\'ve taught me a lot about both living with verve and facing adversity with grit and dignity. For that I thank you.<br>Keeping you in our thoughts and prayers.'
+}, {
+  author: 'Marvin and Kerrie', // Mackey
+  date: 'January 2nd, 2018',
+  text: 'Thank you for always making us welcome both in your home and at the DC Welsh - I\'d like to think that when we start a journey we take things with us that give us comfort, or that serve us well; a good book, a good cup of tea, or our love of adventure. Well you and your beautiful family have that comfort, that wonderful feeling of \'hiraeth\' deep in your heart that is going to comfort you all.<br>Hwyl fawr.'
+}, {
   author: 'Margaret', // West
   date: 'January 1st, 2018',
-  text: 'Gareth,<br>You\u2019ve been a great friend for many years . . . from the law department at Aber to Gray\u2019s Inn to the Washington D.C. Welsh to the Cosmos Club. <br>Thank you: <br>For agreeing to lead the St. David\u2019s Society of Washington DC and for the accomplishments under your Presidency. <br>For helping to establish an Aberystwyth University alumnae group in Washington. <br>For supporting our Welsh Assembly representatives here and the Welsh Caucus on Capitol Hill\n\nFor becoming North American Secretary of the Welsh Legal History Society and for contributing your scholarly research on Dr. Richard Price, Welsh philosopher and advisor to the Founding Fathers. And for challenging me to do research and write and leading me to the friendship between Welsh-American Supreme Court Justices Hughes and Robert. <br>For supporting Diane Owen\u2019s Welsh language classes so that a growing number of Washingtonians can say something in Welsh. <br>For winning me over to the Oxford side on the question of who wrote Shakespeare.<br>For bringing Amy, Llewelyn and Rhys into our lives.<br>With one enterprise after another you have kept me busy in recent years. I think there are a lot of people who would say the same.<br>We are going to miss you. Many of us will continue what you began but it won\u2019t be the same.'
+  text: 'Gareth,<br>You\u2019ve been a great friend for many years... from the law department at Aber to Gray\u2019s Inn to the Washington D.C. Welsh to the Cosmos Club. <br>Thank you: <br>For agreeing to lead the St. David\u2019s Society of Washington DC and for the accomplishments under your Presidency. <br>For helping to establish an Aberystwyth University alumnae group in Washington. <br>For supporting our Welsh Assembly representatives here and the Welsh Caucus on Capitol Hill.<br>For becoming North American Secretary of the Welsh Legal History Society and for contributing your scholarly research on Dr. Richard Price, Welsh philosopher and advisor to the Founding Fathers. And for challenging me to do research and write and leading me to the friendship between Welsh-American Supreme Court Justices Hughes and Robert. <br>For supporting Diane Owen\u2019s Welsh language classes so that a growing number of Washingtonians can say something in Welsh. <br>For winning me over to the Oxford side on the question of who wrote Shakespeare.<br>For bringing Amy, Llewelyn and Rhys into our lives.<br>With one enterprise after another you have kept me busy in recent years. I think there are a lot of people who would say the same.<br>We are going to miss you. Many of us will continue what you began but it won\u2019t be the same.'
 }, {
 //   author: 'Alun and Mary', // Michael
 //   date: 'December 31st, 2017',
