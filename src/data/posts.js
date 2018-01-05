@@ -11,7 +11,7 @@ export default [{
   author: 'Amy, Lou, & Rhys',
   date: 'January 5th, 2018',
   familyPost: true,
-  text: 'Gareth passed away yesterday afternoon. He was surrounded by his family and all of our love. Thank you for your support. We will post additional information in the coming days.'
+  text: 'It is with great sadness to let you know that Gareth peacefully and comfortably passed away yesterday evening. He was surrounded by his family and all of our love. Thank you for all of your support and thoughts at this time. We will post additional information in the coming days regarding the funeral service.'
 },/* {
   author: 'Amy',
   date: 'December 21st, 2017',
