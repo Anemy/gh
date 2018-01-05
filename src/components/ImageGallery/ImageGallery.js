@@ -40,6 +40,9 @@ const images = [{
 }, {
   original: 'images/big-dinner-javed-enjum.jpg'
 }, {
+  original: 'images/titus-howells-with-mcginnisses-1995.jpg',
+  description: '1995'
+}, {
   original: 'images/gareth-1987.jpg',
   description: '1987'
 }, {

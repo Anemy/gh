@@ -16,6 +16,7 @@ const Home = () => (
       <div className="u-6-24" />
       <div className="u-12-24">
         <InfoPanel />
+        <ImageGallery />
         <NavLink className="link-to-share-post" to="/message">
           Add a post or send us a message ✉️
         </NavLink>
@@ -23,18 +24,6 @@ const Home = () => (
         <NavLink className="link-to-share-post bottom-share-post-link" to="/message">
           Add a post or send us a message ✉️
         </NavLink>
-        <div>
-          <ImageGallery />
-        </div>
-        {/* <br />
-        <br />
-        <br />
-        <br />
-        <img className="a-g-image" src="/a-g.jpg"/>
-        <img className="a-g-image" src="/1.jpg"/>
-        <img className="a-g-image" src="/2.jpg"/>
-        <img className="a-g-image" src="/3.jpg"/>
-        <img className="a-g-image" src="/4.jpg"/> */}
       </div>
     </div>
   </div>

@@ -8,10 +8,23 @@
 // https://git.io/vbpkH
 
 export default [{
+  author: 'Amy, Lou, & Rhys',
+  date: 'January 5th, 2018',
+  familyPost: true,
+  text: 'Gareth passed away yesterday afternoon. He was surrounded by his family and all of our love. Thank you for your support. We will post additional information in the coming days.'
+},/* {
   author: 'Amy',
   date: 'December 21st, 2017',
   familyPost: true,
   text: 'Hello all, Gareth is now starting hospice care at home. During this season of family time we invite you to share your best wishes, memories, and photos. <br>Love from all of us.'
+}, */{
+  author: 'Bob', // Ruggeri
+  date: 'January 4th, 2018',
+  text: 'It has been such a delight knowing Gareth; he is a remarkable individual in so many ways.  It’s been wonderful seeing what a great couple you two have been and how good he is to you.   How lucky you’ve been.<br><br>Quick story: <br>Before you had children, you and Gareth paid us a visit in Schdy back in 92 or so.   Gareth had been on the Concorde (it was still flying back then).  He had thought to bring us a certificate that he’d been given for the flight.  He wanted Ned to have it.  We still have it at home.<br>I was so struck by his kindness to a child.  I knew right there and then that he’d become a terrific father himself.  And what a legacy he has in that.<br>Sometimes the smallest things tell us all we need to know about the measure of a man, their character, and other qualities.  Although Gareth has shown in countless ways what an extraordinary, erudite, and charming person he is, I’ll never forget the Concorde passenger who thought to carry a gift  400 miles to a small child.  What a guy…..<br>Love,'
+}, {
+  author: 'Mary', // Thackery
+  date: 'January 3rd, 2018',
+  text: 'Amy and Gareth -- Bob and I have been happy to know Gareth since he came into Amy\'s life and Amy since her high school and college days in Schenectady.  You delighted us as much as Amy and we have enjoyed your wit and sense of humor.  No one could have been a better match for Amy. This ordeal must be very difficult for you and for the entire family.  We are all better off having known and loved you.'
 }, {
   author: 'Evans', // Paschal
   date: 'January 3rd, 2018',

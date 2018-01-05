@@ -18,8 +18,8 @@ const InfoPanel = () => (
       We will be updating this website regularly.
     </div>
     <div className="info-panel-author">- Amy, Gareth, Lou, &amp; Rhys</div>
-    <br />
-    <img className="a-g-image" src="/a-g.jpg" alt=""/>
+    {/* <br /> */}
+    {/* <img className="a-g-image" src="/a-g.jpg" alt=""/> */}
   </div>
 );
 
