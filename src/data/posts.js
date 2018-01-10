@@ -9,6 +9,11 @@
 
 export default [{
   author: 'Amy, Lou, & Rhys',
+  date: 'January 9th, 2018',
+  familyPost: true,
+  text: 'A funeral service honoring the life of Gareth will be held this Friday, January 12th, at the Falls Church Presbyterian Church at 1:00 pm.<br><br>The address of the church is:<br>225 East Broad Street<br>Falls Church, Virginia, 22046<br><br>Thank you for all of your support and thoughts at this time.<br>With much love,'
+}, {
+  author: 'Amy, Lou, & Rhys',
   date: 'January 5th, 2018',
   familyPost: true,
   text: 'It is with great sadness to let you know that Gareth peacefully and comfortably passed away yesterday evening. He was surrounded by his family and all of our love. Thank you for all of your support and thoughts at this time. We will post additional information in the coming days regarding the funeral service.'
@@ -110,7 +115,7 @@ export default [{
   date: 'December 26th, 2017',
   text: 'Gareth, Thank you for enlightening us with your seemingly limitless knowledge and your willingness to question. Thank you for your British savior-faire and your Celtic independence. And let\'s not forget those great bow-ties! You have enriched our lives in so many ways. We are holding you and your wonderful family in our thoughts and prayers.'
 },
-// {u'message': u'Annwyl Gareth, Amy, Llewelyn a Rhys,\nMae\u2019r ddau ohonom yn gweddio drosoch chi fel teulu bob dydd. \nPan yn meddwl amdanat ti, y peth sydd yn selfyll allan yw ail-gwrdd a ti yn ystod yr Wyl Gymraeg (NAFOW) yn Cincinnati 2006. Rhwy\u2019n cofio\u2019n eglir i fi eistedd gyda ti a Emir Jones Parry  yn cael seibiant bach ac i ni dechrau, un ar ol y llall,  rhoi allan llinell gyntaf o emyn cymraeg ar ddau arall, os gallent, mynd ymlaen ar ail llinell. Oedd hi\u2019n rhyfedd y nifer o emynau i ni drafod yn ystod hanner awr neu mwy! Mae un pennill yn arbenig yn dod yn ol i fi nawr ac efallai bydd o rhyw galondid:\n\nMae llais y gwylwyr oddi draw\nYn dweud bod bore llon ger llaw\nFod cymyl nos yn cilio mhell\nO flaen dylanwad bywyd gwell\n\nYn ystod y blynyddoedd ers i ti ar teulu symyd i \u201cDC,\u201d oedd yn bleser  cael dy gwmni. Rhoedd Cymdaethas Dewi Sant yn fodus cael ti fel llywydd ac hefyd yr WNAA cael ti fel ymddiriedolwr. Os oes rhwbeth allwn ni wneud i rhoi cymorth i ti neu\u2019r teilu, gofyna i Amy rhoi galwad  (240) 731-5031 cell.\n \nLlawer o gariad a phob bendith, Hywel a Mari\n', u'name': u'Hywel a Mari', u'email': u''}
+// {u'message': u'Annwyl Gareth, Amy, Llewelyn a Rhys,<br>Mae\u2019r ddau ohonom yn gweddio drosoch chi fel teulu bob dydd. <br>Pan yn meddwl amdanat ti, y peth sydd yn selfyll allan yw ail-gwrdd a ti yn ystod yr Wyl Gymraeg (NAFOW) yn Cincinnati 2006. Rhwy\u2019n cofio\u2019n eglir i fi eistedd gyda ti a Emir Jones Parry  yn cael seibiant bach ac i ni dechrau, un ar ol y llall,  rhoi allan llinell gyntaf o emyn cymraeg ar ddau arall, os gallent, mynd ymlaen ar ail llinell. Oedd hi\u2019n rhyfedd y nifer o emynau i ni drafod yn ystod hanner awr neu mwy! Mae un pennill yn arbenig yn dod yn ol i fi nawr ac efallai bydd o rhyw galondid:<br><br>Mae llais y gwylwyr oddi draw<br>Yn dweud bod bore llon ger llaw<br>Fod cymyl nos yn cilio mhell<br>O flaen dylanwad bywyd gwell<br><br>Yn ystod y blynyddoedd ers i ti ar teulu symyd i \u201cDC,\u201d oedd yn bleser  cael dy gwmni. Rhoedd Cymdaethas Dewi Sant yn fodus cael ti fel llywydd ac hefyd yr WNAA cael ti fel ymddiriedolwr. Os oes rhwbeth allwn ni wneud i rhoi cymorth i ti neu\u2019r teilu, gofyna i Amy rhoi galwad  (240) 731-5031 cell.<br> <br>Llawer o gariad a phob bendith, Hywel a Mari<br>', u'name': u'Hywel a Mari', u'email': u''}
 {
   author: 'Rhitu',
   date: 'December 26th, 2017',
