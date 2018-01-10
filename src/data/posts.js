@@ -11,7 +11,7 @@ export default [{
   author: 'Amy, Lou, & Rhys',
   date: 'January 9th, 2018',
   familyPost: true,
-  text: 'A funeral service honoring the life of Gareth will be held this Friday, January 12th, at the Falls Church Presbyterian Church at 1:00 pm.<br><br>The address of the church is:<br>225 East Broad Street<br>Falls Church, Virginia, 22046<br><br>Thank you for all of your support and thoughts at this time.<br>With much love,'
+  text: 'A funeral service honoring the life of Gareth will be held this Friday, January 12th, at the Falls Church Presbyterian Church at 1:00 pm.<br><br>The address of the church is:<br>225 East Broad Street<br>Falls Church, Virginia, 22046<br><br>Thank you for all of your support and thoughts at this time.'
 }, {
   author: 'Amy, Lou, & Rhys',
   date: 'January 5th, 2018',
