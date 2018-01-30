@@ -43,6 +43,12 @@ const images = [{
   original: 'images/titus-howells-with-mcginnisses-1995.jpg',
   description: '1995'
 }, {
+  original: 'images/family-in-wales.jpg'
+}, {
+  original: 'images/hugh-and-carols-with-nest-and-lynwen.jpg'
+}, {
+  original: 'images/near-the-water-with-amy-tom-marg.jpg'
+}, {
   original: 'images/gareth-1987.jpg',
   description: '1987'
 }, {
