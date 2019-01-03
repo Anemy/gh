@@ -12,19 +12,17 @@ import TopBar from '../TopBar/TopBar';
 const Home = () => (
   <div className="home">
     <TopBar />
-    <div className="g">
-      <div className="u-6-24" />
-      <div className="u-12-24">
-        <InfoPanel />
-        <ImageGallery />
-        <NavLink className="link-to-share-post" to="/message">
-          Add a post or send us a message ✉️
-        </NavLink>
-        <Wall />
-        <NavLink className="link-to-share-post bottom-share-post-link" to="/message">
-          Add a post or send us a message ✉️
-        </NavLink>
-      </div>
+    <div className="home-body">
+      <InfoPanel />
+      <ImageGallery />
+      <NavLink className="link-to-share-post" to="/message">
+        Add a post or send us a message <span role="img" aria-label="mail">✉️</span>
+      </NavLink>
+      <Wall />
+      <NavLink className="link-to-share-post bottom-share-post-link" to="/message">
+        Add a post or send us a message <span role="img" aria-label="mail">✉️</span>
+      </NavLink>
+      <br />
     </div>
   </div>
 );

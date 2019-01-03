@@ -94,7 +94,7 @@ class SharePost extends Component {
               onSubmit={this.submitPost}
             >
               <div className="share-post-description">
-                Write a message to Gareth and the family.
+                Write a message to the family.
               </div>
               <textarea
                 className="share-post-text"

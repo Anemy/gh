@@ -14,9 +14,6 @@ const InfoPanel = () => (
     <div className="info-panel-text">
       Share your pictures, thoughts, and stories <NavLink to="/message">here</NavLink>.
     </div>
-    <div className="info-panel-text">
-      We will be updating this website regularly.
-    </div>
     <div className="info-panel-author">- Amy, Lou, &amp; Rhys</div>
     {/* <br /> */}
     {/* <img className="a-g-image" src="/a-g.jpg" alt=""/> */}
